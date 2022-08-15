@@ -1,0 +1,23 @@
+.review_wrapper {
+  width: 100%;
+  height: auto;
+  background-image: url("../../assets/images/review-banner.jpg");
+  background-repeat: no-repeat;
+  background-position: 50% 50%;
+  background-size: cover;
+}
+
+.review_wrapper .carousel-item {
+  min-height: 500px;
+  height: 100%;
+}
+
+.review_wrapper .carousel-item img {
+  width: 65px;
+  margin-bottom: 20px;
+}
+
+.review_wrapper .carousel-control-prev-icon,
+.review_wrapper .carousel-control-next-icon {
+  filter: brightness(0.1);
+}

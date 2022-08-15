@@ -1,0 +1,17 @@
+.offers_wrapper .card {
+  height: 100%;
+  min-height: 260px;
+  box-shadow: 0 0 16px 4px var(--bg-dark-blue);
+  background-position: 50% 50%;
+  background-size: cover;
+}
+
+.offers_wrapper .card .offer-text {
+  width: 50%;
+  height: 100%;
+  background-color: var(--bg-black);
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}

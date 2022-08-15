@@ -1,0 +1,10 @@
+.about_wrapper {
+  background-color: var(--bg-gray);
+  padding-bottom: 130px;
+}
+
+.about_wrapper .card {
+  z-index: 10;
+  right: -25%;
+  top: 30%;
+}
