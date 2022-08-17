@@ -1,7 +1,7 @@
 .menu_wrapper {
   width: 100%;
   height: auto;
-  background-image: url("../images/food-menu-banner.jpg");
+  background-image: url("../../assets/images/food-menu-banner.jpg");
   background-repeat: no-repeat;
   background-position: 50% 50%;
   background-size: cover;
@@ -9,7 +9,7 @@
 }
 
 .menu_wrapper .row {
-  padding-top: 400px;
+  padding-top: 200px;
 }
 
 .menu_wrapper .card {
